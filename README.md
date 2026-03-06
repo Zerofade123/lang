@@ -15,9 +15,9 @@ Powered by a local inference engine. Your commands never leave your machine—no
 🛠️ Current Platform Support
 Linux / Mac / WSL: Fully Supported (Native).
 Windows /: Incoming in v2.0.
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-📦 Installation (One-Line Magic):
 
+📦 Installation (One-Line Magic):
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 Linux / Mac / WSL: Run this command⬇️⬇️
 curl -L https://github.com/Zerofade123/lang/releases/latest/download/lang -o lang
 chmod +x lang
