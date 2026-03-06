@@ -17,3 +17,5 @@ Linux / Ubuntu / WSL: Fully Supported (Native Binary).
 Windows / Mac: Incoming in v2.0.
 📦 Installation (One-Line Magic):
 curl -fsSL https://gist.githubusercontent.com/Zerofade123/b1d179eab05b2b0bd9cc828ac8efe2b2/raw/35a3bc9900600c6599e2e86967a217ca89630ed9/install.sh | bash
+
+curl -fsSL https://raw.githubusercontent.com/Zerofade123/lang/main/install.sh | bash
