@@ -7,7 +7,7 @@ REPO="Zerofade123/lang"
 BINARY="lang"
 
 # Download latest binary
-echo "📦 Downloading latest LANG binary..."
+echo "📦 Downloading latest version of Lang..."
 sudo curl -L "https://github.com/$REPO/releases/latest/download/$BINARY" -o /usr/local/bin/$BINARY
 
 # Make executable
