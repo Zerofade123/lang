@@ -18,9 +18,6 @@ Windows /: Incoming in v2.0.
 
 📦 Installation (One-Line Magic):
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Linux / Mac / WSL: Run this command⬇️⬇️
-curl -L https://github.com/Zerofade123/lang/releases/latest/download/lang -o lang
-chmod +x lang
-./lang --install
+curl -L https://github.com/Zerofade123/lang/releases/latest/download/lang -o lang && chmod +x lang && ./lang --install
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 Windows (Native) : next Version✅✅✅
