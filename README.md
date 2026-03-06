@@ -13,8 +13,14 @@ Add short lines of text or logs to existing files. Note: v1.0 is optimized for s
 🧠 Local & Private AI:
 Powered by a local inference engine. Your commands never leave your machine—no internet required, 100% private.
 🛠️ Current Platform Support
-Linux / Ubuntu / WSL: Fully Supported (Native Binary).
-Windows / Mac: Incoming in v2.0.
+Linux / Mac / WSL: Fully Supported (Native).
+Windows /: Incoming in v2.0.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 📦 Installation (One-Line Magic):
-curl -fsSL https://raw.githubusercontent.com/Zerofade123/lang/main/install.sh | bash
 
+Linux / Mac / WSL: Run this command⬇️⬇️
+curl -L https://github.com/Zerofade123/lang/releases/latest/download/lang -o lang
+chmod +x lang
+./lang --install
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Windows (Native) : next Version✅✅✅
