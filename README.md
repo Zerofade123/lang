@@ -1,6 +1,6 @@
 LANG v1.0: The Semantic Shell Launch
 "Talk to your computer. It finally understands."
-LANG is a high-performance Natural Language Operating Interface built in Rust. It replaces rigid terminal syntax with fluid, human-centric intent. This version is optimized specifically for Linux/WSL environments.
+LANG is a high-performance Natural Language Operating Interface built in Rust. It replaces rigid terminal syntax with fluid, human-centric intent. This version is optimized specifically for Linux/WSL/Mac environments.
 ✨ What’s Working in v1.0?
 📁 Structural Intelligence (Folders):
 Full support for directory management. You can Create, Delete, Rename, and List folders using natural English (e.g., "Make a folder called Projects").
